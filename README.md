@@ -28,6 +28,6 @@ Afterwards, the user should has the option to click a button to copy the passwor
 
 Click the Generate Password button and follow the specific prompts. After completion, the random created password will display. 
 
-![Image 1](https://raw.githubusercontent.com/HannahYudkin/password-generator/branch/path/to/img.png)
+![Image 1](https://github.com/HannahYudkin/password-generator/blob/master/images/password-generator-1.png)
 
 If the Copy Password button is pressed, the password is copied to the clipboard and a notification will display that the password is copied. 
