@@ -33,3 +33,7 @@ Click the Generate Password button and follow the specific prompts. After comple
 If the Copy Password button is pressed, the password is copied to the clipboard and a notification will display that the password is copied. 
 
 ![Image 2](https://github.com/HannahYudkin/password-generator/blob/master/images/password-generator-2.png)
+
+## Access Here
+
+https://hannahyudkin.github.io/password-generator/
