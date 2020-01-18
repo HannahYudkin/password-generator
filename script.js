@@ -44,8 +44,14 @@ function generatePassword() {
   let text = "";
   for (i =0; i < length; i++) {
     pushFunctions();
-    let rand = functionArrays[Math.floor(Math.random() * functionArrays.length)];
-    text += rand;
+    console.log(characters)
+    if (functionArrays.length === 0) {
+      alert("You need to make at least one selection! Try again.")
+      i = length;
+    } else {
+      let rand = functionArrays[Math.floor(Math.random() * functionArrays.length)];
+      text += rand;
+    }
   }
   console.log(text)
   return(text)
@@ -115,5 +121,3 @@ function copy() {
 }
 
 
-
-  
